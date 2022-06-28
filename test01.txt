@@ -1,0 +1,6 @@
+XRL   47H, A
+DEC   A
+DEC   @R0
+CJNE  R2,  #37H,  16H
+
+

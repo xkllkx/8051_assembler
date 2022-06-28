@@ -1,0 +1,9 @@
+DEC   @R1
+CJNE  R1, #0FAH, 0E5H
+XRL   32H,A
+DEC   A
+CJNE  A,#95H,47H
+XRL   65H,#0C3H
+CJNE  R0,#5BH,38H
+    
+    
