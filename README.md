@@ -1,5 +1,5 @@
 # 8051 Assembler
-This repository implements an assembler for the 8051 microcontroller, focusing on the functionality for XRL, DEC, and CJNE instructions.
+This repository implements an assembler for the 8051 microcontroller, focusing on the functionality for **XRL**, **DEC**, and **CJNE** instructions.
 The assembler reads instructions from a specified input file, processes them, and outputs the corresponding machine code.
 
 # How to use this repo
