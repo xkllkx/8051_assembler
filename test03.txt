@@ -1,9 +1,0 @@
-DEC    @R0
-DEC    A
-XRL    5DH,#7CH
-CJNE   R6, #9AH, 0BCH
-XRL    4AH,A
-CJNE   A,#67H,73H
-
-
-   
