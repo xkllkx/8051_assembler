@@ -2,8 +2,7 @@ import re
 
 print("輸入要組譯的文檔編號：")
 t_n = str(input())
-path = 'D:/Users/xkllkx/Desktop/all_program/assembler/test0'+ t_n +'.txt'
-
+path = 'testcase/test0'+ t_n +'.txt'
 
 def hb4_t0_hb2(n):
     n = str(n)
